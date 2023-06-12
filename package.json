@@ -1,0 +1,26 @@
+{
+  "name": "play-with-json-placeholder-api",
+  "version": "1.0.0",
+  "description": "play-with-json-placeholder-api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learn-with-Sumit/assignment-5---play-with-json-placeholder-MehediHasanNabil.git"
+  },
+  "keywords": [],
+  "author": "Md. Mehedi Hasan Nabil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Learn-with-Sumit/assignment-5---play-with-json-placeholder-MehediHasanNabil/issues"
+  },
+  "homepage": "https://github.com/Learn-with-Sumit/assignment-5---play-with-json-placeholder-MehediHasanNabil#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.5",
+    "node-fetch": "^2.6.7",
+    "redux-logger": "^3.0.6"
+  }
+}
